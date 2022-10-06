@@ -66,4 +66,4 @@ else:
  
 
 # Results and Output : 
- poisson distribution for the arrival of objects per minute from the feeder is fitted successfully.
+Thus Poisson distribution for the arrival of objects per minute from the feeder is fitted successfully.
