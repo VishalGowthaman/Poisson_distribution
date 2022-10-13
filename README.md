@@ -65,5 +65,7 @@ else:
 ~~~
  
 
-# Results and Output : 
+# Output :
+![](./E2.1.png)
+
 Thus Poisson distribution for the arrival of objects per minute from the feeder is fitted successfully.
